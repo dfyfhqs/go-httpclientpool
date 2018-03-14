@@ -1,2 +1,2 @@
-# httpclinetpool
-httpclient pool for go
+# http client pool
+golang http client pool 
